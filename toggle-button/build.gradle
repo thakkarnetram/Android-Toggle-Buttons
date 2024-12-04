@@ -21,7 +21,7 @@ group="com.github.thakkarnetram"
 version="1.0.0"
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 33
     namespace "com.github.thakkarnetram.togglebutton"
     defaultConfig {
         minSdkVersion 21
